@@ -1,28 +1,81 @@
-<h1 align="center">Hi 👋, I'm Shlok Jadeja</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="shlok-177" /> </p>
-    <hr>
-    <pre>
-    💻 I am a self taught Full Stack Developer and a Software Developer
-    📚 I am Pre final year student in Bachelors in Computer Science from the GEC Gandhinagar
-    📝 I have a strong interest in Web Development
-    🔭 Working on Some Web Projects
-    🌟 Main languages: JavaScript , Java and C
-    🚩 Interested in Software Development
-    🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">MY RESUME.</a>
-    </pre>
-    <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Hi 👋, I'm Shlok Jadeja  
+
 <p align="center">
-        <a href="mailto:contact@shlokjadeja.tech"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-        <a href="https://www.linkedin.com/in/shlok-jadeja-8b9793209/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="https://github.com/Shlok-177"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    </p>
+    <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="shlok-177" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🚀 About Me  
+<pre>
+🔹 <b>DevOps Engineer</b> with over <b>1+ years of experience</b> in automating and optimizing cloud infrastructure.  
+🔹 Expertise in <b>Microsoft Azure, AWS, Docker, Kubernetes, and ROSA (Red Hat OpenShift Service on AWS)</b>.  
+🔹 Passionate about <b>CI/CD pipelines, Infrastructure as Code (IaC), and cloud security</b>.  
+🔹 Strong experience in <b>monitoring, logging, and system reliability engineering</b>.  
+</pre>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-177&show_icons=true&locale=en&layout=compact" alt="shlok-177" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok-177&show_icons=true&locale=en" alt="shlok-177" /></p>
+## 🛠️ Skills & Technologies  
+
+
+### ☁️ **Cloud Platforms**  
+<div>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
+</div>
+
+### 📦 **Containerization & Orchestration**  
+<div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ROSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>  
+</div>
+
+### 🚀 **CI/CD & Automation**  
+<div>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>  
+</div>
+
+### 🏗 **Infrastructure as Code (IaC)**  
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>  
+
+### 📊 **Monitoring & Logging**  
+<div>
+<img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>  
+</div>
+
+### 🔄 **Version Control**  
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Azure%20Repos-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>  
+</div>
+
+### 💻 **Web & Database Technologies**  
+<div>
+<img src="https://img.shields.io/badge/Windows%20IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>  
+<img src="https://img.shields.io/badge/.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+</div>
+
+## 📫 Connect with Me  
+<p align="left">
+    <a href="mailto:contact@shlokjadeja.tech">
+        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/shlok-jadeja-8b9793209/">
+        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Shlok-177">
+        <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</p>
